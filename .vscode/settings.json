@@ -6,5 +6,17 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true
     },
-    "hide-files.files": []
+    "hide-files.files": [],
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "ced-lab.tidy-formatter"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "ced-lab.tidy-formatter"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "ced-lab.tidy-formatter"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "ced-lab.tidy-formatter"
+    }
 }
