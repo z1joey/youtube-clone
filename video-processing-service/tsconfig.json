@@ -7,6 +7,11 @@
     "strict": true,
     "esModuleInterop": true
   },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules"]
 }

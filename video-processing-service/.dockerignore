@@ -1,0 +1,10 @@
+node_modules
+*.MOV
+*.mp4
+processed-*
+.git
+.gitignore
+*.md
+dist
+Dockerfile
+.dockerignore
